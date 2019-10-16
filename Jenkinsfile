@@ -1,2 +1,4 @@
 @Library('sharedLibraryJenkins') _
-SonarQube()
+stage('Deploy') {
+  SonarQube()
+}
