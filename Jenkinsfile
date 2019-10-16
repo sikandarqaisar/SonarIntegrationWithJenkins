@@ -1,2 +1,2 @@
-@Library(‘sharedLibraryJenkins’)_
+@Library('sharedLibraryJenkins')_
 SonarQube()
