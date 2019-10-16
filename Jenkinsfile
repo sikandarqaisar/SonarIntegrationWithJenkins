@@ -1,2 +1,2 @@
-@Library(‘branchname’)_
-sharedPipeline()
+@Library(‘sharedLibraryJenkins’)_
+SonarQube()
