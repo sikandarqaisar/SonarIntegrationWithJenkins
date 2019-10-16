@@ -1,1 +1,2 @@
-@Library('sharedLibraryJenkins@sonarqube')_
+@Library('sharedLibraryJenkins')_
+sonarqube()
