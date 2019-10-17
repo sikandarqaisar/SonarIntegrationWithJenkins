@@ -1,2 +1,2 @@
 @Library('sharedLibraryJenkins')_
-sonarqube()
+sonarqube([url:"https://github.com/sikandarqaisar/my-app"])
