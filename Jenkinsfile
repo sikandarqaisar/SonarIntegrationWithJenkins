@@ -1,5 +1,5 @@
 @Library('sharedLibraryJenkins')_
-sonarqube([url:"https://github.com/sikandarqaisar/sharedLibraryJenkins/",
+sonarqube([url:"ENTER-----YOUR--GITHUB--GROOVY--FILE--REPO--URl--HERE",
           gitbranch:"master",
-          EmailFrom:"sikandar@eurustechnologies.com",
-          EmailTo:"sikandarqaisar@gmail.com"])
+          EmailFrom:"FROM--EMAIL--ADDRESS",
+          EmailTo:"TO--EMAIL--ADDREDD"])
